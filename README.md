@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is kang seung hyun i like playing
 
 <!--
 **kshkds484070-ship-it/kshkds484070-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
